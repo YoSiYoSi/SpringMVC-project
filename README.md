@@ -42,3 +42,17 @@
 <img width="372" alt="db" src="https://user-images.githubusercontent.com/50140381/83107999-1f8fb000-a0fa-11ea-924b-667382179143.PNG">
 
 
+
+3.1 구현 내용
+-------------
+
+![image](https://user-images.githubusercontent.com/50140381/83111067-ffaebb00-a0fe-11ea-9cc3-7e6734fd6518.png)
+![image](https://user-images.githubusercontent.com/50140381/83111095-0dfcd700-a0ff-11ea-8736-bc344a045362.png)
+![image](https://user-images.githubusercontent.com/50140381/83111112-148b4e80-a0ff-11ea-8ce0-814faab10fd8.png)
+![image](https://user-images.githubusercontent.com/50140381/83111135-19e89900-a0ff-11ea-949e-908d7795c02c.png)
+![image](https://user-images.githubusercontent.com/50140381/83111159-2240d400-a0ff-11ea-91f5-9586588f707d.png)
+![image](https://user-images.githubusercontent.com/50140381/83111184-2c62d280-a0ff-11ea-903a-b6c8a8d7de89.png)
+![image](https://user-images.githubusercontent.com/50140381/83111197-3258b380-a0ff-11ea-8374-0c968265682a.png)
+
+
+
