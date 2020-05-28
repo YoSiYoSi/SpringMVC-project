@@ -39,3 +39,6 @@
 2.1 데이터베이스 설계
 -------------------
 
+<img width="372" alt="db" src="https://user-images.githubusercontent.com/50140381/83107999-1f8fb000-a0fa-11ea-924b-667382179143.PNG">
+
+
