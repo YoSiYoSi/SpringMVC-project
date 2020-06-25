@@ -58,7 +58,7 @@
 4.기여 부분
 ============
 
-<img width="450" alt="db" src="https://user-images.githubusercontent.com/50140381/83111197-3258b380-a0ff-11ea-8374-0c968265682a.png">
+<img width="450" alt="db" src="https://user-images.githubusercontent.com/50140381/85743774-4bc13f80-b73f-11ea-8f01-e2224769852b.png">
 
 
 
